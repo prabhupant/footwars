@@ -5,6 +5,8 @@ import java.io.*;
 
 public class GameEngine {
 	
+	#adding the basic stats for the team
+	
 	static double atletico_stat[] = new double[4];
 	static double barcelona_stat[] = new double[4];
 	static double bayern_stat[] = new double[4];
